@@ -1,0 +1,8 @@
+.eslintcache
+.pnpm-debug.log
+/node_modules/
+coverage/
+dist/
+tsconfig.tsbuildinfo
+.DS_Store
+package-lock.json
